@@ -6,23 +6,23 @@ BODY {
   color:#444;
   font-weight: 400;
 }
-
+/*container*/
 #container {
   width:100%;
   max-width:1200px;
   margin:0 auto;
 }
-
+/*name*/
 #name {
   font-size:3em;
   text-transform:uppercase;
-  text-align:center;
+  text-align: center;
   border-bottom: 1px solid #33485e;
   width: 60%;
   min-width:300px;
   margin:0 auto;
 }
-
+/*title*/
 #title {
   color:#33485e
   text-transform:uppercase;
@@ -34,7 +34,7 @@ BODY {
   margin-right:0;
   margin-left:0;
 }
-
+/*sectionheader*/
 .sectionheader {
   font-size: 1.5em;
   text-transform:uppercase;
@@ -46,17 +46,17 @@ BODY {
   width:70%;
   min-width:300px;
 }
-
+/*jobtitle*/
 .jobtitle {
   font-size: 1.5em;
   font-weight: 600;
 }
-
+/*organization*/
 .organization {
   font-size: 1.25em;
   font-weight: 400;
 }
-
+/*date*/
 .date {
   font-size: 1em;
   font-weight: 400;
@@ -66,14 +66,14 @@ BODY {
   margin-right:0;
   margin-left:0;
 }
-
+/*description*/
 .description {
   margin-top:10px;
   margin-bottom:10px;
   margin-right:0;
   margin-left:0;
 }
-
+/*jobtitle*/
 .menu {
   margin-top:0;
   margin-bottom:0;
@@ -83,21 +83,21 @@ BODY {
   text-align: center;
   display: inline;
 }
-
+/*degrees*/
 #degrees {
   margin-top:5px
   margin-bottom:0;
   margin-right:0;
   margin-left:0;
 }
-
+/*do*/
 #do {
   margin-top:5px
   margin-bottom:0;
   margin-right:0;
   margin-left:0;
 }
-
+/*top*/
 #top {
   width:60%;
   min-width: 300px;
