@@ -74,7 +74,7 @@ BODY {
   margin-right:0;
   margin-left:0;
 }
-/*jobtitle*/
+/*menu*/
 .menu {
   margin-top:0;
   margin-bottom:0;
@@ -108,4 +108,6 @@ BODY {
   min-width: 300px;
   margin:0 auto;
   margin-bottom: 30px;
+  padding: 30px;
+  padding-bottom: 10px;
 }
