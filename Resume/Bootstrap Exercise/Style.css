@@ -1,0 +1,14 @@
+/* main style */
+style
+
+.h1 {
+font-family: 'Averia Serif Libre', cursive;
+}
+
+.container {
+  text-align: center;
+}
+
+.bi {
+  font-size: 3em
+}
