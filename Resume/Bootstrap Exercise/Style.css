@@ -1,8 +1,25 @@
 /* main style */
-style
+@media only screen and (max-width: 500px) {
 
-.h1 {
-font-family: 'Averia Serif Libre', cursive;
+	INSERT STYLES HERE FOR SCREENS BELOW 500px
+  .h2 {
+    padding-bottom: 50px;
+  }
+  .btn {
+    background-color: teal;
+  }
+}
+
+h1 {
+font-family: 'Special Elite', cursive;
+}
+
+h2 {
+font-family: 'Special Elite', cursive;
+}
+
+h3 {
+  font-family: 'Special Elite', cursive;
 }
 
 .container {
@@ -10,5 +27,25 @@ font-family: 'Averia Serif Libre', cursive;
 }
 
 .bi {
-  font-size: 3em
+  font-size: 3em;
+
+}
+
+.btn {
+  font-family: 'Special Elite'; cursive;
+}
+
+.navbar-brand {
+  font-family: 'Special Elite'; cursive;
+}
+img {
+    padding: 10px;
+}
+
+.row {
+padding-bottom: 50px;
+}
+
+.col {
+  text-align: center;
 }
