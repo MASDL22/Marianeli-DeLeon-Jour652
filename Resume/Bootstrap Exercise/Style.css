@@ -1,12 +1,11 @@
 /* main style */
 @media only screen and (max-width: 500px) {
 
-	INSERT STYLES HERE FOR SCREENS BELOW 500px
   .h2 {
     padding-bottom: 50px;
   }
   .btn {
-    background-color: teal;
+    background-color: teal !important;
   }
 }
 
@@ -39,7 +38,9 @@ h3 {
   font-family: 'Special Elite'; cursive;
 }
 img {
-    padding: 10px;
+    padding: 15px;
+    max-width: 500px
+    width: 100%
 }
 
 .row {
@@ -48,4 +49,12 @@ padding-bottom: 50px;
 
 .col {
   text-align: center;
+}
+
+.lead {
+  text-align: left;
+}
+
+.footer {
+ text-align: left;
 }
