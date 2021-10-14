@@ -11,7 +11,7 @@ font-style: italic;
 
 h1 {
   font-family: Helvetica, sans-serif;
-  font-size: 13px;
+  font-size: 20px;
 }
 
 p {
@@ -30,4 +30,26 @@ p {
   font-family: Helvetica, sans-serif;
   font-size: 20px;
   text-align: left;
+}
+
+.image {
+  align-items: center;
+  width: 400px;
+  height: auto;
+}
+
+.uae {
+  align-items: left;
+}
+
+.mars{
+
+}
+
+.jpg {
+
+}
+
+.gif {
+  
 }
