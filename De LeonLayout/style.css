@@ -1,3 +1,8 @@
+
+@media only screen and (max-width: 2500px) {
+!important
+
+
 #content {
   margin: 0 auto;
   width: 900px;
@@ -33,13 +38,15 @@ p {
 }
 
 .image {
-  align-items: center;
-  width: 400px;
-  height: auto;
+  margin: 0 auto;
+  height: 700px;
+  width: 1500px;
 }
 
 .uae {
-  align-items: left;
+  margin: 0 auto;
+  height: 700px;
+  width: 1000px;
 }
 
 .mars{
@@ -49,9 +56,13 @@ width: 1000px;
 }
 
 .jpg {
-
+  margin: 0 auto;
+  height: 700px;
+  width: 1000px;
 }
 
 .gif {
-
+  margin: 0 auto;
+  height: 700px;
+  width: 1000px;
 }
