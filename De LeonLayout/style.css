@@ -1,6 +1,33 @@
 
-@media only screen and (max-width: 2500px) {
-!important
+@media only screen and (max-width: 500px) {
+  #content{
+    max-width: 500px;
+  }
+
+  .ul {
+    max-width: 500px;
+  }
+
+  .image {
+    max-width: 500px;
+  }
+
+  .uae {
+    max-width: 500px;
+  }
+
+  .mars{
+  max-width: 500px;
+  }
+
+  .jpg {
+  max-width: 500px;
+  }
+
+  .gif {
+  max-width: 500px;
+  }
+}
 
 
 #content {
@@ -40,29 +67,29 @@ p {
 .image {
   margin: 0 auto;
   height: 700px;
-  width: 1500px;
+  width: 1300px;
 }
 
 .uae {
   margin: 0 auto;
   height: 700px;
-  width: 1000px;
+  width: 900px;
 }
 
 .mars{
 margin: 0 auto;
 height: 700px;
-width: 1000px;
+width: 900px;
 }
 
 .jpg {
   margin: 0 auto;
   height: 700px;
-  width: 1000px;
+  width: 900px;
 }
 
 .gif {
   margin: 0 auto;
   height: 700px;
-  width: 1000px;
+  width: 900px;
 }
