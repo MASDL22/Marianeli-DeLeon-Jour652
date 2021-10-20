@@ -1,5 +1,37 @@
 p {
-  font-size: 16px;
-  font-style: Helvetica; Arial; sans serif;
+  font-size: 12px;
+  font-family: Helvetica; Arial; sans serif;
+}
 
+h1 {
+  font-size: 35px;
+  font-family: 'Crimson Text', serif;
+}
+
+.subhead {
+ font-size: 14px;
+font-family: 'Fira Sans', sans-serif;
+}
+
+.sub {
+  font-size: 14px;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.sum {
+  font-size: 20px;
+  font-family: Helvetica; Arial; sans serif;
+}
+
+img {
+  padding: 15px;
+  max-width: 500px
+  width: 100%
+}
+
+.captions {
+  font-size: 14px;
+  font-family: Helvetica; Arial; sans serif;
+  font-style: italic;
+  text-align: left;
 }
