@@ -43,6 +43,7 @@ img {
   padding: 15px;
   max-width: 2000px;
   width: 100%;
+  background-color: #91F8F8;
 }
 
 .captions {
@@ -54,6 +55,7 @@ img {
 
 #content {
   text-align: center;
+  background-color: #91F8F8;
 }
 
 #byline {
