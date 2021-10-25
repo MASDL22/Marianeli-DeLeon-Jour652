@@ -1,0 +1,23 @@
+#content {
+  text-align: center;
+  background-color: #62f3fc;
+}
+
+h1{
+  font-size: 25px;
+  font-family: 'Sansita', Arial; sans-serif;
+  font-style: bold;
+  text-align: center;
+  background-color: #62f3fc;
+}
+
+.col-md-1 {
+  text-align: center;
+  background-color: #62f3fc;
+}
+
+.contacts {
+  font-size: 1.5em;
+  text-align: center;
+  background-color: #62f3fc;
+}
