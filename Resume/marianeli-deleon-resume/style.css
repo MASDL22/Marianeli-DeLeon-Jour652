@@ -1,17 +1,17 @@
 #content {
   text-align: center;
   background-color: #62f3fc;
+  font-family: 'Sansita', Arial, sans-serif;
 }
 
 h1{
-  font-size: 25px;
-  font-family: 'Sansita', Arial; sans-serif;
+  font-size: 45px;
   font-style: bold;
   text-align: center;
   background-color: #62f3fc;
 }
 
-.col-md-1 {
+.col{
   text-align: center;
   background-color: #62f3fc;
 }
@@ -20,4 +20,24 @@ h1{
   font-size: 1.5em;
   text-align: center;
   background-color: #62f3fc;
+}
+
+p {
+  font-size: 25px;
+  font-style: normal;
+}
+
+.position {
+  font-size: 40px;
+  font-style: italic;
+}
+
+.organization {
+  font-size: 35px;
+  font-style: oblique;
+}
+
+.date {
+  font-size: 30px;
+  font-style: normal;
 }
