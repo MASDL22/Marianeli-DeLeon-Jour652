@@ -1,29 +1,29 @@
 #content {
-  text-align: center;
-  background-color: #62f3fc;
+  text-align: left;
   font-family: 'Sansita', Arial, sans-serif;
+  font-size: 20px;
 }
 
 h1{
-  font-size: 45px;
+  font-size: 50px;
   font-style: bold;
   text-align: center;
-  background-color: #62f3fc;
+
 }
 
 .col{
   text-align: center;
-  background-color: #62f3fc;
+
 }
 
 .contacts {
-  font-size: 1.5em;
-  text-align: center;
-  background-color: #62f3fc;
+  font-size: 2em;
+  text-align: left;
+
 }
 
 p {
-  font-size: 25px;
+  font-size: 20px;
   font-style: normal;
 }
 
@@ -33,11 +33,26 @@ p {
 }
 
 .organization {
-  font-size: 35px;
+  font-size: 30px;
   font-style: oblique;
 }
 
 .date {
   font-size: 30px;
   font-style: normal;
+}
+
+.Ed {
+    font-size: 30px;
+
+}
+
+.row {
+  font-size: 26px;
+}
+
+.Me {
+  font-family: 'Sansita', Arial, sans-serif;
+  font-size: 50px;
+  text-align: center;
 }
