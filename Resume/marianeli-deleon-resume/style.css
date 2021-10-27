@@ -14,6 +14,9 @@
     max-width: 500px;
   }
 }
+.nav-item{
+  font-family: 'Sansita', Arial, sans-serif;
+}
 
 #content {
   text-align: left;
