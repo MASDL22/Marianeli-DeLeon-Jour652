@@ -74,8 +74,10 @@ p {
 
 .flag {
   text-align: center;
+  width: 100%;
 }
 
 .masthead {
   text-align: center;
+  width: 100%;
 }
