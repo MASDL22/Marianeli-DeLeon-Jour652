@@ -1,0 +1,32 @@
+/*nav*/
+.nav-logo{
+  color: #fff;
+  margin: 0 auto;
+  font-weight: bold;
+  text-transform: uppercase;
+  
+}
+
+.red {
+  color: #D41414;
+}
+
+/*hero*/
+
+.hero-container {
+  position:relative;
+  text-align: center;
+  color: #D41414;
+}
+
+.hero-image{
+  width:100%;
+}
+
+.overlay{
+  position:absolute;
+  width:100%
+  top:20%
+  color: #7E7E7E;
+  opacity: .7;
+}
