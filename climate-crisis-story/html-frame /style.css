@@ -21,6 +21,7 @@
 
 .hero-image{
   width:100%;
+  padding-top: 20px;
 }
 
 .overlay{
@@ -74,8 +75,11 @@ font-family: 'Mukta', sans-serif;
 .caption{
   font-family: 'Mukta', sans-serif;
   font-size: 1em;
+  font-weight: bold;
   padding-top: 10px;
   padding-left: 10px;
+  color: gray;
+  text-align: left;
 
 }
 
@@ -83,23 +87,73 @@ font-family: 'Mukta', sans-serif;
 /*headers*/
 .header {
   font-family: 'Amiri', serif;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
+  padding: 10px 0 10px 0;
 }
 
 .head {
+  font-family: 'Amiri', serif;
+  font-size: 45px;
+  font-style: bold;
+  text-align: center;
+}
+.byline {
   font-family: 'Amiri', serif;
   font-size: 35px;
   font-style: italic;
   text-align: center;
 }
-.byline {
-  font-family: 'Amiri', serif;
-  font-size: 25px;
-  font-style: italic;
+
+/*sidebar*/
+.sidebar {
+  font-family: 'Mukta', sans-serif;
+  font-size: 1.5em;
+  color: orange;
+  border: 5px solid #F4DF08;
+  text-align: center;
+  font-weight: bold;
+
+}
+.side-title{
+  text-align: center;
+  font-family: 'Mukta', sans-serif;
+  font-weight: bold;
+}
+
+.col {
   text-align: center;
 }
 
+/*links*/
+a:link {
+color: #1af3fc;
+}
+
+/* visited link */
+a:visited {
+color:#7705d1;
+}
+
+/* mouse over link */
+a:hover {
+color: #1af3fc;
+text-decoration: underline;
+}
+
+
+/*content*/
+p{
+  font-size: 20px;
+  font-family: 'Mukta', sans-serif;
+  font-weight: 300;
+}
+.add {
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    font-style:italic;
+    padding: 20px 0 20px 0;
+}
 
 /*media querie*/
 
