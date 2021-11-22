@@ -17,6 +17,7 @@
   position:relative;
   text-align: center;
   color: black;
+  background-color: #FFE276;
 }
 
 .hero-image{
@@ -127,12 +128,12 @@ font-family: 'Mukta', sans-serif;
 
 /*links*/
 a:link {
-color: #1af3fc;
+color: #7705d1;
 }
 
 /* visited link */
 a:visited {
-color:#7705d1;
+color: #1af3fc;
 }
 
 /* mouse over link */
@@ -154,6 +155,11 @@ p{
     font-style:italic;
     padding: 20px 0 20px 0;
 }
+.graph{
+  text-align: center;
+}
+
+
 
 /*media querie*/
 
