@@ -17,7 +17,6 @@
   position:relative;
   text-align: center;
   color: black;
-  background-color: #FFE276;
 }
 
 .hero-image{
@@ -109,7 +108,7 @@ font-family: 'Mukta', sans-serif;
 /*sidebar*/
 .sidebar {
   font-family: 'Mukta', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.3em;
   color: orange;
   border: 5px solid #F4DF08;
   text-align: center;
@@ -124,6 +123,11 @@ font-family: 'Mukta', sans-serif;
 
 .col {
   text-align: center;
+}
+
+.source {
+  text-align: left;
+  padding-left: 5px;
 }
 
 /*links*/
