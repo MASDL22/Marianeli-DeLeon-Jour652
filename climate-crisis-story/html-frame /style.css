@@ -133,11 +133,13 @@ font-family: 'Mukta', sans-serif;
 /*links*/
 a:link {
 color: #7705d1;
+text-decoration: none;
 }
 
 /* visited link */
 a:visited {
 color: #1af3fc;
+text-decoration: underline;
 }
 
 /* mouse over link */
