@@ -4,3 +4,33 @@ body{
 p {
   color: white;
 }
+
+.quote {
+  color:#A0A0A0;
+}
+
+.subhead {
+  color:white;
+}
+
+.caption {
+  color:#CFCFCF;
+  font-style: bold;
+}
+
+.title {
+  color:white;
+}
+
+.author {
+  color:white;
+}
+
+.info{
+  color:white;
+}
+
+#credits {
+  color:white;
+
+}
