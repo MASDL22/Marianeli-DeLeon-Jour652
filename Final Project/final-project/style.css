@@ -1,29 +1,50 @@
 body{
   background-color: black;
+  padding-bottom: 10px;
 }
 p {
   color: white;
+  padding-top:10px;
+  font-size: 30px;
+}
+
+.image {
+  align-items: center;
+  width: 100%;
 }
 
 .quote {
   color:#A0A0A0;
+  padding-bottom: 10px;
+  font-size: 40px;
+}
+
+.bold{
+  font-style: bold;
 }
 
 .subhead {
   color:white;
+  font-size: 35px;
 }
 
 .caption {
   color:#CFCFCF;
   font-style: bold;
+  font-size: 25px;
+  padding-left: 10px;
 }
 
 .title {
   color:white;
+  padding-bottom: 10px;
+  font-size: 50px;
 }
 
 .author {
   color:white;
+  padding-bottom: 10px;
+  font-size: 45px;
 }
 
 .info{
@@ -34,3 +55,31 @@ p {
   color:white;
 
 }
+
+#graphic {
+  background-color: white;
+  padding: 10px;
+
+}
+
+.nav-logo{
+  text-align: center;
+  margin: auto;
+  text-transform: uppercase;
+  color:white;
+}
+
+.hero-head{
+  color:white;
+  font-size:3em;
+ text-align:center;
+padding-bottom:10px;
+font-weight: bold;
+}
+
+.overlay{
+  position:absolute;
+  width:100%;
+  top:20%;
+  background: black;
+  opacity: .7;
