@@ -1,3 +1,23 @@
+
+@media (max-width:700px){
+  .hero-head{
+    font-size: 2.5em;
+  }
+.nav-logo{
+  font-size: 1.5em;
+}
+.overlay {
+top:10%
+}
+
+.title{
+  font-size: 20px;
+}
+.author{
+  font-size: 15px;
+}
+}
+
 body{
   background-color: black;
   padding-bottom: 10px;
@@ -5,7 +25,8 @@ body{
 p {
   color: white;
   padding-top:10px;
-  font-size: 30px;
+  font-size: 27px;
+  font-family: 'Philosopher', sans-serif;
 }
 
 .image {
@@ -17,15 +38,18 @@ p {
   color:#A0A0A0;
   padding-bottom: 10px;
   font-size: 40px;
+  font-family: 'Philosopher', sans-serif;
 }
 
 .bold{
-  font-style: bold;
+  font-weight: 600;
+  font-family: 'Philosopher', sans-serif;
 }
 
 .subhead {
   color:white;
   font-size: 35px;
+  font-weight: 600;
 }
 
 .caption {
@@ -33,26 +57,34 @@ p {
   font-style: bold;
   font-size: 25px;
   padding-left: 10px;
+  font-family: 'Cormorant Garamond', serif;
+
 }
 
 .title {
   color:white;
   padding-bottom: 10px;
   font-size: 50px;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 .author {
   color:white;
   padding-bottom: 10px;
   font-size: 45px;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 .info{
   color:white;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 15px;
 }
 
 #credits {
   color:white;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 15px;
 
 }
 
@@ -67,19 +99,23 @@ p {
   margin: auto;
   text-transform: uppercase;
   color:white;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2em;
+  font-weight: 600;
 }
 
 .hero-head{
-  color:white;
-  font-size:3em;
+  color:#FBFBFB;
+  font-size:3.5em;
  text-align:center;
 padding-bottom:10px;
 font-weight: bold;
+font-family: 'Cormorant Garamond', serif;
 }
 
 .overlay{
-  position:absolute;
+  position: absolute;
   width:100%;
-  top:20%;
+  top:40%;
   background: black;
   opacity: .7;
