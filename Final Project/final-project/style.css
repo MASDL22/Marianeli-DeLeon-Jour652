@@ -1,5 +1,5 @@
 
-@media (max-width:700px){
+@media (max-width:500px){
   .hero-head{
     font-size: 2.5em;
   }
@@ -15,6 +15,9 @@ top:10%
 }
 .author{
   font-size: 15px;
+}
+.hero-container{
+  max-width: 450px;
 }
 }
 
@@ -44,12 +47,16 @@ p {
 .bold{
   font-weight: 600;
   font-family: 'Philosopher', sans-serif;
+  color:#FEF703
 }
 
 .subhead {
-  color:white;
+  color:#FF9B56;
   font-size: 35px;
   font-weight: 600;
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+
 }
 
 .caption {
@@ -73,6 +80,7 @@ p {
   padding-bottom: 10px;
   font-size: 45px;
   font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
 }
 
 .info{
@@ -111,6 +119,14 @@ p {
 padding-bottom:10px;
 font-weight: bold;
 font-family: 'Cormorant Garamond', serif;
+}
+
+.hero-sub{
+font-family: 'Cormorant Garamond', serif;
+ font-size:.5em;
+ color: #FBFBFB;
+ margin:0 auto;
+ font-weight: bold;
 }
 
 .overlay{
