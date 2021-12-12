@@ -1,0 +1,185 @@
+
+@media (max-width:700px){
+  .container{
+    max-width: 500px;
+  }
+
+  .hero-head{
+    font-size: 1em;
+  }
+  .hero-sub{
+    font-size: .5em;
+  }
+.overlay {
+max-width: 700px;
+}
+.image{
+  max-width: 100%;
+}
+.title{
+  font-size: 20px;
+  padding-top: 200px;
+}
+.author{
+  font-size: 15px;
+}
+.hero-container{
+  max-width: 450px;
+}
+p{
+  padding-left: 20px;
+}
+}
+/*end of media*/
+
+
+body{
+  background-color: black;
+  padding-bottom: 10px;
+}
+p {
+  color: white;
+  padding-top:10px;
+  font-size: 27px;
+  font-family: 'Philosopher', sans-serif;
+}
+
+.image {
+  align-items: center;
+  width: 100%;
+}
+
+.quote {
+  color:#A0A0A0;
+  padding-bottom: 10px;
+  font-size: 40px;
+  font-family: 'Philosopher', sans-serif;
+  border: 1px solid white;
+}
+
+.bold{
+  font-weight: 600;
+  font-family: 'Philosopher', sans-serif;
+  color:#FEF703
+}
+
+.subhead {
+  color:#FF9B56;
+  font-size: 35px;
+  font-weight: 600;
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+
+}
+
+.caption {
+  color:#CFCFCF;
+  font-style: bold;
+  font-size: 25px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  font-family: 'Cormorant Garamond', serif;
+
+}
+
+.title {
+  color:white;
+  padding-bottom: 10px;
+  font-size: 50px;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.author {
+  color:white;
+  padding-bottom: 10px;
+  font-size: 45px;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+}
+
+.info{
+  color:white;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 20px;
+}
+
+
+.garcia{
+  text-align: center;
+  max-width: 100%;
+  height: auto;
+
+}
+
+.montt {
+  text-align: center;
+  max-width: 100%;
+  height: auto;
+
+}
+
+#credits {
+  color:white;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 18px;
+
+}
+
+#graphic {
+  background-color: white;
+  padding: 10px;
+
+}
+#map{
+  background-color:#2F59CF;
+  padding:10px;
+}
+#info {
+  color:white;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 18px;
+}
+
+.nav-logo{
+  text-align: center;
+  margin: auto;
+  text-transform: uppercase;
+  color:white;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2em;
+  font-weight: 600;
+}
+.footer{
+  text-align: center;
+}
+a:hover {
+  color: #7705d1;
+  text-decoration: underline;
+}
+a:visited{
+  color: #7705d1;
+  text-decoration: underline;
+}
+.hero-head{
+  color:#FBFBFB;
+  font-size:3.5em;
+ text-align:center;
+padding-bottom:10px;
+font-weight: bold;
+font-family: 'Cormorant Garamond', serif;
+}
+
+.hero-sub{
+font-family: 'Cormorant Garamond', serif;
+ font-size:.5em;
+ color: #FBFBFB;
+ margin:0 auto;
+ font-weight: bold;
+}
+
+.overlay{
+  position: absolute;
+  width:100%;
+  top:40%;
+  background: black;
+  opacity: .7;
