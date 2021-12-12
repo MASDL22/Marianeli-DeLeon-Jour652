@@ -1,23 +1,33 @@
 
-@media (max-width:500px){
-  .hero-head{
-    font-size: 2.5em;
+@media (max-width:700px){
+  .container{
+    max-width: 500px;
   }
-.nav-logo{
-  font-size: 1.5em;
-}
-.overlay {
-top:10%
-}
 
+  .hero-head{
+    font-size: 1em;
+  }
+  .hero-sub{
+    font-size: .5em;
+  }
+.overlay {
+max-width: 700px;
+}
+.image{
+  max-width: 100%;
+}
 .title{
   font-size: 20px;
+  padding-top: 200px;
 }
 .author{
   font-size: 15px;
 }
 .hero-container{
   max-width: 450px;
+}
+p{
+  padding-left: 20px;
 }
 }
 
@@ -42,6 +52,7 @@ p {
   padding-bottom: 10px;
   font-size: 40px;
   font-family: 'Philosopher', sans-serif;
+  border: 1px solid white;
 }
 
 .bold{
@@ -63,7 +74,8 @@ p {
   color:#CFCFCF;
   font-style: bold;
   font-size: 25px;
-  padding-left: 10px;
+  padding-left: 25px;
+  padding-bottom: 25px;
   font-family: 'Cormorant Garamond', serif;
 
 }
@@ -89,10 +101,25 @@ p {
   font-size: 15px;
 }
 
+
+.garcia{
+  text-align: center;
+  max-width: 100%;
+  height: auto;
+
+}
+
+.montt {
+  text-align: center;
+  max-width: 100%;
+  height: auto;
+
+}
+
 #credits {
   color:white;
   font-family: 'Philosopher', sans-serif;
-  font-size: 15px;
+  font-size: 18px;
 
 }
 
@@ -100,6 +127,15 @@ p {
   background-color: white;
   padding: 10px;
 
+}
+#map{
+  background-color:#2F59CF;
+  padding:10px;
+}
+#info {
+  color:white;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 18px;
 }
 
 .nav-logo{
@@ -111,7 +147,17 @@ p {
   font-size: 2em;
   font-weight: 600;
 }
-
+.footer{
+  text-align: center;
+}
+a:hover {
+  color: #7705d1;
+  text-decoration: underline;
+}
+a:visited{
+  color: #7705d1;
+  text-decoration: underline;
+}
 .hero-head{
   color:#FBFBFB;
   font-size:3.5em;
